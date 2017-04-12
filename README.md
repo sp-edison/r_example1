@@ -1,4 +1,4 @@
-#R language sample - sin()
+# R language sample - sin()
 
 EDISON 시뮬레이션 SW 개발자를 위한 1개의 입력 파일 읽어, sin 그래프를 그리는 R언어 예제 파일입니다.
 
