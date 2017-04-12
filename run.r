@@ -1,5 +1,4 @@
-#!/usr/local/bin/Rscript
-##!/SYSTEM/R/3.3.3/bin/Rscript
+#!/SYSTEM/R/3.3.3/bin/Rscript
 
 
 library(optparse)
